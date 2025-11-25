@@ -14,6 +14,8 @@ The system moves beyond simple conversation to a strict **"Check-then-Act" Proto
 * **🦾 The Hands (Custom Tools):** Python-based governance layer. The business logic (Math, Risk Ratios, Bank Balances) is hidden here. The tool *physically blocks* the agent from processing risky refunds.
 * **💾 The Memory (Session Service):** Maintains the user's identity (`judge_01`) and context across turns, allowing the agent to handle multiple requests in a single session without amnesia.
 
+![Fiduciary AI Agent - The Risk Aware Orchestrator Architecture](https://github.com/airawatraj/fiduciary-ops-agent/blob/main/assets/Fiduciary-AI-Agent-TheRisk-Aware-Orchestrator-Architecture.png)
+
 ## 3. Course Concepts Demonstrated
 This submission explicitly implements three core concepts from the **5-Day AI Agents Intensive Course with Google**:
 
