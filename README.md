@@ -1,4 +1,4 @@
-# 🛡️ Fiduciary Agent: The Risk-Aware Orchestrator
+# <img src="https://raw.githubusercontent.com/airawatraj/airawatraj.github.io/refs/heads/main/assets/fiduciary-ai-agent.ico" width="35" align="center" /> Fiduciary Agent: The Risk-Aware Orchestrator
 
 ## 1. The Pitch
 **The Problem:**
