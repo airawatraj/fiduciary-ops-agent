@@ -16,7 +16,7 @@ The system moves beyond simple conversation to a strict **"Check-then-Act" Proto
 
 ![Fiduciary AI Agent - The Risk Aware Orchestrator Architecture](https://github.com/airawatraj/fiduciary-ops-agent/blob/main/assets/Fiduciary-AI-Agent-TheRisk-Aware-Orchestrator-Architecture.png)
 
-## 3. Course Concepts Demonstrated
+## 3. Concepts Demonstrated
 This submission explicitly implements three core concepts from the **5-Day AI Agents Intensive Course with Google**:
 
 1.  **Agent Powered by an LLM:** Leveraging `gemini-2.5-flash-lite` for high-speed, low-latency reasoning.
