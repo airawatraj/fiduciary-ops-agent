@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or systems, please cite it as below."
+title: "Fiduciary Ops Agent: Autonomous Risk Governance"
+authors:
+  - family-names: "Rawat"
+    given-names: "Rajendra"
+    alias: "Airawatraj"
+    affiliation: "Rawat Labs"
+    orcid: "https://orcid.org/0009-0007-5017-1341"
+version: 1.0.0
+date-released: 2025-12-20
+url: "https://github.com/airawatraj/fiduciary-ops-agent"
+abstract: >-
+  An autonomous Fiduciary Agent powered by Gemini Flash Lite that enforces 
+  enterprise risk governance (CLV vs Refund) using strict tool-first protocols. 
+  Designed to demonstrate agentic reasoning in high-compliance e-commerce environments.
+keywords:
+  - "agentic-ai"
+  - "fiduciary-responsibility"
+  - "gemini-flash"
+  - "autonomous-agents"
+  - "enterprise-risk"
+license: MIT
