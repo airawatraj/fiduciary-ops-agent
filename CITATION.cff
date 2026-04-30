@@ -3,9 +3,9 @@ message: "If you use this software in your research or systems, please cite it a
 title: "Fiduciary Ops Agent: Autonomous Risk Governance"
 authors:
   - family-names: "Rawat"
-    given-names: "Rajendra"
-    alias: "Airawatraj"
-    affiliation: "Rawat Labs"
+    given-names: "Rajendra Singh"
+    alias: "airawatraj"
+    affiliation: "cogni.chat"
     orcid: "https://orcid.org/0009-0007-5017-1341"
 version: 1.0.0
 date-released: 2025-12-20
