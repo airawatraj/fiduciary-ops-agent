@@ -4,6 +4,14 @@
 **The Problem:**
 Most AI agents are "Yes-Men", they prioritise politeness over business rules. In e-commerce, an agent that approves every refund request can bankrupt a company. Simple chatbots lack the context to distinguish between a VIP customer and a fraudulent claim.
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)
+![Notebook](https://img.shields.io/badge/notebook-Jupyter-orange?logo=jupyter&logoColor=white)
+![Models](https://img.shields.io/badge/models-Gemini%20%7C%20Cogni--Brain-purple)
+![Local AI](https://img.shields.io/badge/local%20AI-Cogni--Brain%20on%20DGX%20Spark-brightgreen?logo=nvidia&logoColor=white)
+![Framework](https://img.shields.io/badge/framework-Google%20ADK-blue)
+![Pattern](https://img.shields.io/badge/pattern-Check--then--Act-black)
+![Governance](https://img.shields.io/badge/governance-Fiduciary%20Risk%20Controls-green)
+
 **The Solution:**
 The **Fiduciary Agent**. This is not a chatbot; it is an **Authorised RPA Controller**. It acts with "Fiduciary Responsibility," calculating **Customer Lifetime Value (CLV)** and assessing risk *before* executing any financial transaction. It empowers `Gemini-Flash-Lite` to say "No" when necessary, protecting the enterprise bottom line.
 
